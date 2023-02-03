@@ -1,0 +1,19 @@
+{
+  "clientes": [
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo con Felipe"
+    },
+    {
+      "nombre": "Felipe",
+      "empresa": "Configo",
+      "email": "davidladiv@hotmail.com",
+      "telefono": "65203119",
+      "notas": "Desea un ecommerce",
+      "id": 6
+    }
+  ]
+}
